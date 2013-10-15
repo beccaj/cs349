@@ -2,7 +2,8 @@ Rebecca Goodwin
 rj2339
 
 
-Thesis: For better or worse, big data is changing the way we perceive the world around us. Big data not only tells us about the world as it currently is, but has the potential to shape human interactions in the future. This is a powerful ability and we must be careful to use it wisely.
+It seems that someone, somewhere is recording everything we do on a daily basis. Data such as what we buy, our phone's location, what terms we search through Google, are all collected (often, but not always, anonymously.) #...# This paper will briefly touch on big data for scientific applications, but will mainly focus on social implications.
+For better or worse, big data is changing the way we perceive the world around us. Big data not only tells us about the world as it currently is, but has the potential to shape human interactions in the future. This is a powerful ability and we must be careful to use it wisely.
 
 Background
 what it is
@@ -10,16 +11,30 @@ how it is done
 applications of data mining
 Science
 Sloan Digital Sky survey
+
 Businesses
+
 Criticism of approach to Big Data
+In the age of empiricism, it is tempting to think that given enough data, any problem can be solved.
 Big data shows us only the way things are right now, at best http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2205145
 lack of hypothesis http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2205145
 Privacy
 Total Information Awareness http://en.wikipedia.org/wiki/Total_Information_Awareness
 ADVISE (Analysis, Dissemination, Visualization, Insight, and Semantic Enhancement) http://en.wikipedia.org/wiki/ADVISE
 Data aggregation http://en.wikipedia.org/wiki/Aggregate_function
+
+One of the biggest concerns about big data is privacy. ##Especially since in many cases, people are not aware that data is even being collected and stored.
+
+
+Even more concerning than data is collected non-anonymously# is data collecting that is supposedly anonymous--but which can be connected to individuals by clever techniques. The term de-anonymization# refers to taking an anonymized dataset and intersecting it with another, non-anonymous data set connect records with individuals.# This is especially concerning in cases in which individuals may not even be aware data is being collected. For instance, it probably does not occur to the average hospital patient that their anonymized records could be made available to researchers. And it is even less obvious that someone could potentially connect names to records with the right tools.
 http://www.theguardian.com/uk/2009/feb/25/database-state-ippr-paper
 http://www.washingtonpost.com/investigations/us-intelligence-mining-data-from-nine-us-internet-companies-in-broad-secret-program/2013/06/06/3a0c0da8-cebf-11e2-8845-d970ccb04497_story.html
+
+
+Influence people
+Google tailoring search results to individual users--gives you back more of the same, doesn’t prompt you to challenge current beliefs
+http://www.theatlantic.com/technology/archive/2012/04/how-data-mining-works/255388/
+
 
 Prediction and prevention of (bad) events
 crime http://www.zdnet.com/aspen-ideas-festival-how-data-could-help-solve-international-crime-7000017478/
@@ -32,11 +47,10 @@ http://www.examiner.com/article/the-often-disturbing-reality-of-social-media
 recommender systems
 Music http://en.wikipedia.org/wiki/Music_Information_Retrieval  
 Books
-Influence people
-Google tailoring search results to individual users--gives you back more of the same, doesn’t prompt you to challenge current beliefs
-http://www.theatlantic.com/technology/archive/2012/04/how-data-mining-works/255388/
 
 
+
+Like it or not, we are in the information age 
 
 Video:
 The video will be a documentary, with interviews, and perhaps screenshots/diagrams of how big data is/could be used with voiceover
