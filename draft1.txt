@@ -13,17 +13,25 @@ Science
 Sloan Digital Sky survey
 
 Businesses
+A huge application of big data is in business. "Retailers, like Walmart and Kohl’s, analyze sales, pricing and economic, demographic and weather data to tailor product selections at particular stores and determine the timing of price markdowns. Shipping companies, like U.P.S., mine data on truck delivery times and traffic patterns to fine-tune routing." (Lohr)
 
 Criticism of approach to Big Data
 In the age of empiricism, it is tempting to think that given enough data, any problem can be solved.
 Big data shows us only the way things are right now, at best http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2205145
 lack of hypothesis http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2205145
+Big Data also supplies more raw material for statistical shenanigans and biased fact- finding excursions. It offers a high-tech twist on an old trick: I know the facts, now let’s find ’em. That is, says Rebecca Goldin, a mathematician at George Mason University, “one of the most pernicious uses of data.”
+As Jesper Andersen said, "[...] the truth is that the moment you touch the data, you've spoiled it. For anyoperation, you have destroyed that objective basis for it." (bollier)
+
+
 Privacy
+
 Total Information Awareness http://en.wikipedia.org/wiki/Total_Information_Awareness
 ADVISE (Analysis, Dissemination, Visualization, Insight, and Semantic Enhancement) http://en.wikipedia.org/wiki/ADVISE
 Data aggregation http://en.wikipedia.org/wiki/Aggregate_function
 
 One of the biggest concerns about big data is privacy. ##Especially since in many cases, people are not aware that data is even being collected and stored.
+
+An alternative opinion is that probabilistic data is a legitimate basis for probable cause. Kim Taiple of the # has the opinion that "'If you start from the premise that data is going to exist and the data may be relevant for making a judgment that is important to society', then the goal should not be to ban the use of correlations and data analysis." (Lohr) S#he compares data to guns--we should control their abuse, but not take them (or data analysis) away.
 
 
 Even more concerning than data is collected non-anonymously# is data collecting that is supposedly anonymous--but which can be connected to individuals by clever techniques. The term de-anonymization# refers to taking an anonymized dataset and intersecting it with another, non-anonymous data set connect records with individuals.# This is especially concerning in cases in which individuals may not even be aware data is being collected. For instance, it probably does not occur to the average hospital patient that their anonymized records could be made available to researchers. And it is even less obvious that someone could potentially connect names to records with the right tools.
@@ -38,7 +46,11 @@ http://www.theatlantic.com/technology/archive/2012/04/how-data-mining-works/2553
 
 Prediction and prevention of (bad) events
 crime http://www.zdnet.com/aspen-ideas-festival-how-data-could-help-solve-international-crime-7000017478/
-of global conflicts http://www.kernelmag.com/features/report/4761/the-predictive-maths-of-war/#
+of global conflicts 
+Global Pulse "Global Pulse, a new initiative by the United Nations, wants to leverage Big Data for global development. The group will conduct so-called sentiment analysis of messages in social networks and text messages — using natural-language deciphering software — to help predict job losses, spending reductions or disease outbreaks in a given region. The goal is to use digital early-warning signals to guide assistance programs in advance to, for example, prevent a region from slipping back into poverty" (Lohr)
+
+"In economic forecasting, research has shown that trends in increasing or decreasing volumes of housing-related search queries in Google are a more accurate predictor of house sales in the next quarter than the forecasts of real estate economists. The Federal Reserve, among others, has taken notice. In July, the National Bureau of Economic Research is holding a workshop on “Opportunities in Big Data” and its implications for the economics profession." (Lohr)
+http://www.kernelmag.com/features/report/4761/the-predictive-maths-of-war/#
 social Networks
 http://news.cnet.com/8301-1023_3-57471570-93/facebook-scans-chats-and-posts-for-criminal-activity/
 http://www.examiner.com/article/the-often-disturbing-reality-of-social-media
@@ -48,6 +60,10 @@ recommender systems
 Music http://en.wikipedia.org/wiki/Music_Information_Retrieval  
 Books
 
+Influence people
+Google tailoring search results to individual users--gives you back more of the same, doesn’t prompt you to challenge current beliefs.
+As Kim Taipale, the Founder and Executive Director of the Center for Advanced Studies in Science and Technology said at the ###, "[It is] the classic Heisenberg principle problem. He#she? was referring to the fact that once data is made available and visualized, people can actually act in ways to change the data as a result of having seen it. S#he was specifically referring to "Google Bombing," the practice of graming the Google search engine to "raise the ranking of a given page in the search results." (bollier)
+http://www.theatlantic.com/technology/archive/2012/04/how-data-mining-works/255388/
 
 
 Like it or not, we are in the information age 

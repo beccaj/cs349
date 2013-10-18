@@ -1,0 +1,24 @@
+Rebecca Goodwin
+rj2339
+
+1. I watched "Assorted Chocolates," "Dream Cars," "Antique Picture Frames," and "Perogies."
+
+2.
+Chocolate video: 
+a. Assorted chocolates with different fillings are being made.
+b. Most of the work already appears to be done by machines--maybe something like .2?
+c. The imprint at the end done by the worker seems like it could easily be done by a robot. Humans transport the candies between machines, which seems like it could be done with better machine design. I don't see why these aren't already being done by machines. Since these chocolates are mass produced and there is a great incentive to reduce costs, I expect that these tasks could be replaced within the next few years.
+d. Humans will probably always need to be there at some point in the production process just to make sure nothing has gone wrong. Humans must still decide what chocolates to make, if a new variety should be produced, etc.
+
+Picture frames: 
+a. Picture frames based on antique frames are being made.
+b. Since an expert is involved doing most of the work, probably pretty high. Maybe .7?
+c. Right now, worker runs the wood through the machines. It looks as though that a smart robot could do this instead.  Brushing on various coats of liquids seemse like it could be done by a similar process to coating the chocolates in their final layer of chocolate from the chocolate video, and the carving could perhaps be done by a robot as well. Since this work is rather delicate, I imagine it will be tens of years before these tasks could be replaced by machines.
+d. A human needs to decide what the dimensions of the frame will be, and what the carvings should look like (and translate this into something a machine can understand.)
+
+3.
+a. They share the property of moving something between machines that already exist, and tasks that can be done the same way each time.
+b. Humans are still needed to make decisions and tell the machines what to do.
+
+
+
