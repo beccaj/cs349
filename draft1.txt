@@ -13,7 +13,7 @@ Science
 Sloan Digital Sky survey
 
 Businesses
-A huge application of big data is in business. "Retailers, like Walmart and Kohl’s, analyze sales, pricing and economic, demographic and weather data to tailor product selections at particular stores and determine the timing of price markdowns. Shipping companies, like U.P.S., mine data on truck delivery times and traffic patterns to fine-tune routing." (Lohr)
+A huge application of big data is in business. "Retailers, like Walmart and Kohl’s, analyze sales, pricing and economic, demographic and weather data to tailor product selections at particular stores and determine the timing of price markdowns. Shipping companies, like U.P.S., mine data on truck delivery times and traffic patterns to fine-tune routing." (Lohr) The implications of these types of applications is great#. Less wasted product, less wasted fuel. And customers' needs are met better than ever.
 
 Criticism of approach to Big Data
 In the age of empiricism, it is tempting to think that given enough data, any problem can be solved.
@@ -31,7 +31,7 @@ Data aggregation http://en.wikipedia.org/wiki/Aggregate_function
 
 One of the biggest concerns about big data is privacy. ##Especially since in many cases, people are not aware that data is even being collected and stored.
 
-An alternative opinion is that probabilistic data is a legitimate basis for probable cause. Kim Taiple of the # has the opinion that "'If you start from the premise that data is going to exist and the data may be relevant for making a judgment that is important to society', then the goal should not be to ban the use of correlations and data analysis." (Lohr) S#he compares data to guns--we should control their abuse, but not take them (or data analysis) away.
+A common concern is that when data is collected about our every move and analyzed by the government##, we have taken our first step towards a Big Brother society. The biggest concern is, of course, that of mistakenly identifying a law-abiding citizen as a potential threat. An open letter to the government## by the Association for Computing Machinery club# asks the question, " Is any level of false positive acceptable - and Constitutional - in such a system?" If we are simply analyzing data # to, say, classify spam, this question is not nearly so important. We will want to minimize false positives, of course, but the mistake is not nearly so grave as if a human is falsly accused of a crime # of which she is innocent. When we are talking about actual humans, a mistake becomes a much bigger deal##. #...# An alternative opinion is that probabilistic data is a legitimate basis for probable cause. Kim Taiple of the # has the opinion that "'If you start from the premise that data is going to exist and the data may be relevant for making a judgment that is important to society', then the goal should not be to ban the use of correlations and data analysis." (Lohr) S#he compares data to guns--we should control their abuse, but not take them (or data analysis) away. 
 
 
 Even more concerning than data is collected non-anonymously# is data collecting that is supposedly anonymous--but which can be connected to individuals by clever techniques. The term de-anonymization# refers to taking an anonymized dataset and intersecting it with another, non-anonymous data set connect records with individuals.# This is especially concerning in cases in which individuals may not even be aware data is being collected. For instance, it probably does not occur to the average hospital patient that their anonymized records could be made available to researchers. And it is even less obvious that someone could potentially connect names to records with the right tools.
@@ -39,9 +39,6 @@ http://www.theguardian.com/uk/2009/feb/25/database-state-ippr-paper
 http://www.washingtonpost.com/investigations/us-intelligence-mining-data-from-nine-us-internet-companies-in-broad-secret-program/2013/06/06/3a0c0da8-cebf-11e2-8845-d970ccb04497_story.html
 
 
-Influence people
-Google tailoring search results to individual users--gives you back more of the same, doesn’t prompt you to challenge current beliefs
-http://www.theatlantic.com/technology/archive/2012/04/how-data-mining-works/255388/
 
 
 Prediction and prevention of (bad) events
@@ -61,10 +58,11 @@ Music http://en.wikipedia.org/wiki/Music_Information_Retrieval
 Books
 
 Influence people
-Google tailoring search results to individual users--gives you back more of the same, doesn’t prompt you to challenge current beliefs.
-As Kim Taipale, the Founder and Executive Director of the Center for Advanced Studies in Science and Technology said at the ###, "[It is] the classic Heisenberg principle problem. He#she? was referring to the fact that once data is made available and visualized, people can actually act in ways to change the data as a result of having seen it. S#he was specifically referring to "Google Bombing," the practice of graming the Google search engine to "raise the ranking of a given page in the search results." (bollier)
+In the Foundation Trilogy, Isaac Asimov explores the idea that the future can be predicted by a combination of history, psychology, and statistics. In the prequel, "Prelude to the Foundation," he brings up an interesting point--that the "predicting" the future itself has an effect on what will happen. The plot focuses on a world leader# who is trying to get a "prediction" of his continued beneficial reign. Have we seen this kind of "predicting" in our own world?###
+As Kim Taipale, the Founder and Executive Director of the Center for Advanced Studies in Science and Technology said at the ###, "[It is] the classic Heisenberg principle problem. Once data is made available and visualized, people can actually act in ways to change the data as a result of having seen it. S#he was specifically referring to "Google Bombing," the practice of graming the Google search engine to "raise the ranking of a given page in the search results." (bollier) But there are much deeper implications than just trying to game the system. #...#
 http://www.theatlantic.com/technology/archive/2012/04/how-data-mining-works/255388/
 
+Google tailoring search results to individual users--gives you back more of the same, doesn’t prompt you to challenge current beliefs.
 
 Like it or not, we are in the information age 
 
