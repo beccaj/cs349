@@ -6,6 +6,7 @@ It seems that someone, somewhere is recording everything we do on a daily basis.
 For better or worse, big data is changing the way we perceive the world around us. Big data not only tells us about the world as it currently is, but has the potential to shape human interactions in the future. This is a powerful ability and we must be careful to use it wisely.
 
 Background
+Data mining is, in general, using huge sets of data to draw conclusions.
 what it is
 how it is done
 applications of data mining
@@ -62,19 +63,12 @@ In the Foundation Trilogy, Isaac Asimov explores the idea that the future can be
 As Kim Taipale, the Founder and Executive Director of the Center for Advanced Studies in Science and Technology said at the ###, "[It is] the classic Heisenberg principle problem. Once data is made available and visualized, people can actually act in ways to change the data as a result of having seen it. S#he was specifically referring to "Google Bombing," the practice of graming the Google search engine to "raise the ranking of a given page in the search results." (bollier) But there are much deeper implications than just trying to game the system. #...#
 
 
-Studies# have shown that women consistently score lower on math tests than men. However, it is interesting that other studies have shown that when young girls are told females do worse on particular tasks, they in fact do worse. However, if they are ignorant of this "disadvantage," they perform the same. ##study!! Another study has shown that when teachers are told they "problem" classes, those classes do in fact do worse than than teachers who are not told this--despite the fact that the classes in fact have the same caliber# of students. Though these are more traditional social scientific studies rather than big data application#, they tell us something: prior beliefs absolutely have an effect on the future.#sounds stupid# Suppose data shows black people are more likely to commit crime. Let us suppose this data is without question. The issue is that this very knowledge can impact future events. Black people may be treated with suspicion, and may on a subconscious level think, "If I'm already being treated like a criminal, why not act like one?" This of course will generate more data confirming the race/crime# correlation which will reinforce people's beliefs in a positive#? feedback loop. The tragedy is that had this data not been known, perhaps the outcome could have been different. #very badly worded.#The American fundamental that everyone should be treated equally has been violated based on "scientific" principles #wat#. that In an age innundated with even more data that has the potential to shape our beliefs, it is imperative that we recognize the human ability to shape the future based on beliefs about #the future.
+Studies# have shown that women consistently score lower on math tests than men. However, it is interesting that other studies have shown that when young girls are told females do worse on particular tasks, they in fact do worse. However, if they are ignorant of this "disadvantage," they perform the same. (Cimpian) A study by Robert Rosenthal has shown that when teachers are told they have some students who have scored highly on a test that predicts growth in IQ, those students in fact do better--despite the fact the fact that the "high-scoring" children were actually chosen at random (Rosenthal). #, they tell us something: prior beliefs absolutely have an effect on the future.#sounds stupid# Suppose data shows black people are more likely to commit crime. Let us suppose this data is without question. The issue is that this very knowledge can impact future events. Black people may be treated with suspicion, and may on a subconscious level think, "If I'm already being treated like a criminal, why not act like one?" This of course will generate more data confirming the race/crime# correlation which will reinforce people's beliefs in a positive#? feedback loop. The tragedy is that had this data not been known, perhaps the outcome could have been different. #very badly worded.#The American fundamental that everyone should be treated equally has been violated based on "scientific" principles #wat#. that In an age innundated with even more data that has the potential to shape our beliefs, it is imperative that we recognize the human ability to shape the future based on beliefs about #the future.
 
 There is also the idea that pleasing the customer can be too much of a good thing. It has been suggested that Google's tailoring of search results to individual users is not unambiguously# a good thing. This practice# gives the user back more of the same and doesn’t prompt anyone to challenge current beliefs.(http://www.theatlantic.com/technology/archive/2012/04/how-data-mining-works/255388/ ??#)
 
 Like it or not, we are in the information age. Given the sheer amount of data generated all the time#, it would fruitless to argue that we should stop collecting or fail to utilize it. However, it is important to realize that data does not always paint an accurate picture, and that looking at data can affect future data##
 
-Video:
-The video will be a documentary, with interviews, and perhaps screenshots/diagrams of how big data is/could be used with voiceover
-People to interview:
-Inderjit S. Dhillon
-Big Data, Machine Learning, Data Mining, Network Analysis, Bioinformatics, Numerical Linear Algebra, Numerical Optimization.
-Tandy Warnow 
-mathematical models and algorithms for estimating evolutionary history in Biology and Historical Linguistics
 
 
 
