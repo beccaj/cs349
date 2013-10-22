@@ -2,11 +2,12 @@ Rebecca Goodwin
 rj2339
 
 
-It seems that someone, somewhere is recording everything we do on a daily basis. Data such as what we buy, our phone's location, what terms we search through Google, are all collected (often, but not always, anonymously.) #...# This paper will briefly touch on big data for scientific applications, but will mainly focus on social implications.
+It seems that someone, somewhere is recording everything we do on a daily basis. Data such as what we buy, our phone's location, what terms we search through Google, are all collected (often, but not always, anonymously.) #...# This paper will briefly touch on big data for scientific applications,# but will mainly focus on social implications.
 For better or worse, big data is changing the way we perceive the world around us. Big data not only tells us about the world as it currently is, but has the potential to shape human interactions in the future. This is a powerful ability and we must be careful to use it wisely.
 
 Background
-Data mining is, in general, using huge sets of data to draw conclusions.
+Data mining is, in general, using huge sets of data to draw conclusions. The term is a very broad one, encompassing everything from drawing scientific conclusions from datasets, to analyzing vast amounts of search terms to try to target ads for a particular user. Big data and data mining are not exactly interchangeable, though they have similar meanings. Data mining refers to specific pattern-finding# algorithms used on large datasets, while big data more generally refers to the general analysis of large datasets.
+
 what it is
 how it is done
 applications of data mining
@@ -15,14 +16,18 @@ Sloan Digital Sky survey
 
 Businesses
 A huge application of big data is in business. "Retailers, like Walmart and Kohl’s, analyze sales, pricing and economic, demographic and weather data to tailor product selections at particular stores and determine the timing of price markdowns. Shipping companies, like U.P.S., mine data on truck delivery times and traffic patterns to fine-tune routing." (Lohr) The implications of these types of applications is great#. Less wasted product, less wasted fuel. And customers' needs are met better than ever.
+Big data isn't just about optimizing profits for business, either. The goal of big data analytics is to get an accurate picture of how things are. In some cases, these insights help customers, as well.
+ Valocchi, from IBM, pointed out in an interview that "there could be billing disputes that come from customers. Using technology, you can show the lineage of data, to point to errors or proof [about whether the customer's bill correctly reflects] exact consumption." (danigelis)
+ "Hunn, Onzo: We've developed a range of clip-on sensors and energy displays that customers can self-install. We're starting to put in new sets of algorithms to look at how efficient your appliances are. If we see consumption going up from a fridge, it's probably an indication that the compressor isn't working or the seals on the door are starting to fail. We can give maintenance information back to consumers." (danigelis)
 
 Criticism of approach to Big Data
 In the age of empiricism, it is tempting to think that given enough data, any problem can be solved.
-Big data shows us only the way things are right now, at best http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2205145
-lack of hypothesis http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2205145
-Big Data also supplies more raw material for statistical shenanigans and biased fact- finding excursions. It offers a high-tech twist on an old trick: I know the facts, now let’s find ’em. That is, says Rebecca Goldin, a mathematician at George Mason University, “one of the most pernicious uses of data.”
-As Jesper Andersen said, "[...] the truth is that the moment you touch the data, you've spoiled it. For anyoperation, you have destroyed that objective basis for it." (bollier)
+Big data shows us only the way things are right now, at best  (hilbert) http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2205145
+lack of hypothesis http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2205145 (hilbert)
+"Big Data also supplies more raw material for statistical shenanigans and biased fact- finding excursions. It offers a high-tech twist on an old trick: I know the facts, now let’s find ’em. That is, says Rebecca Goldin, a mathematician at George Mason University, “one of the most pernicious uses of data.” (source??)
+As Jesper Andersen said, "[...] the truth is that the moment you touch the data, you've spoiled it. For any operation, you have destroyed that objective basis for it." (bollier)
 
+Spectacular errors can emerge when researchers try to build social science findings into technological systems. A classic example arose when Friendster chose to implement Robin Dunbar’s (1998) work. Analyzing gossip practices in humans and grooming habits in monkeys, Dunbar found that people could only actively maintain 150 relationships at any time and argued that this number represented the maximum size of a person's personal network. Unfortunately, Friendster believed that people were replicating their pre-existing personal networks on the site, so they inferred that no one should have a friend list greater than 150. Thus, they capped the number of ‘Friends’ people could have on the system (boyd, 2006).
 
 Privacy
 

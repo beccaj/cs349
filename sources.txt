@@ -1,7 +1,31 @@
-lohr
-fluffy overview
 
 bollier
 The Aspen Institute communications and Society program convened 25 leaders, entrepreneurs, and academics from the realms of technology, business management, economics, statistics, journalism, computer science, and public policy to address theses subjects at teh 2009 roundtable on information technology.
 report of that 3-day conference
 Looks meaty and good
+
+boyd: Six Provocations for Big Data
+gives 6 issues with big data. Great for argument against it
+
+Tom M. Mitchell
+The article from class. Has interesting little examples
+
+danigelis
+Interview with some people about various issues, including privacy. Seems to be with a utilities company?
+
+hilbert
+paper that talks about lack of hypothesis: Big data shows us only the way things are right now, at best http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2205145 in my draft
+
+lohr
+fluffy overview
+
+Arthur
+fluffy overview, somewhat interesting
+
+batty
+about big data in geography specifically. Possibly useful, skipped for now. Not controversial
+
+jackson
+seems to be about the risks involved for a business in storing big data, and the kinds of things and internal auditor should focus on to make sure they're not violating anything. meh
+
+
