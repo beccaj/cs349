@@ -14,7 +14,7 @@ danigelis
 Interview with some people about various issues, including privacy. Seems to be with a utilities company?
 
 hilbert
-paper that talks about lack of hypothesis: Big data shows us only the way things are right now, at best http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2205145 in my draft
+paper that talks about lack of hypothesis: Big data shows us only the way things are right now, at best (maybe?) Looks good. http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2205145 in my draft
 
 furnas
 well done summary
