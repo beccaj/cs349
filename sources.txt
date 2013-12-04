@@ -1,11 +1,19 @@
 
 bollier
-The Aspen Institute communications and Society program convened 25 leaders, entrepreneurs, and academics from the realms of technology, business management, economics, statistics, journalism, computer science, and public policy to address theses subjects at teh 2009 roundtable on information technology.
+The Aspen Institute communications and Society program convened 25 leaders, entrepreneurs, and academics from the realms of technology, business management, economics, statistics, journalism, computer science, and public policy to address theses subjects at the 2009 roundtable on information technology.
 report of that 3-day conference
 Looks meaty and good
+from footnotes:
+N. Eagle and A. Pentland, "Reality Mining: Sensing Complex Social Systems," Peronsal and Ubiquitous Computer, vol. 10, no. 4, pp. 255-268.
+
+lesk
+about big brother, though not just about government. Pretty good, brings up some bad things about big data. I think pretty relevant
+
+
 
 boyd: Six Provocations for Big Data
-gives 6 issues with big data. Great for argument against it
+gives 6 issues with big data. Great for argument against it, though mostly seems
+to be about pitfalls when doing social science research
 
 Tom M. Mitchell
 The article from class. Has interesting little examples
@@ -14,13 +22,15 @@ danigelis
 Interview with some people about various issues, including privacy. Seems to be with a utilities company?
 
 hilbert
-paper that talks about lack of hypothesis: Big data shows us only the way things are right now, at best (maybe?) Looks good. http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2205145 in my draft
+paper that talks about lack of hypothesis: (maybe?) Big data shows us only the way things are right now, at best (maybe?) Looks good. Some socity stuff http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2205145 in my draft
 
+
+a lot of numbers
 furnas
 well done summary
 
-lohr
-fluffy overview
+lohr The age of big data
+fluffy overview. Some neat quotes
 
 Arthur
 fluffy overview, somewhat interesting
@@ -32,3 +42,15 @@ jackson
 seems to be about the risks involved for a business in storing big data, and the kinds of things and internal auditor should focus on to make sure they're not violating anything. meh
 
 
+Valente
+mass media and interpersonal influence in a reproductive health communication campaign in boliva
+looks really interesting, not sure if relevant. Maybe if talks about influencing society, which it might
+
+simone
+overview, not to great
+
+PRISM
+http://www.washingtonpost.com/investigations/us-intelligence-mining-data-from-nine-us-internet-companies-in-broad-secret-program/2013/06/06/3a0c0da8-cebf-11e2-8845-d970ccb04497_story_3.html (no easy way to print)
+
+Simon
+Too Big To Ignore (book)
