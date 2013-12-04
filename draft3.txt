@@ -19,10 +19,7 @@ Collecting information about users and targeting adds is even more prevalent onl
 
   ""People start getting very uneasy when buying suggestions are made based on how much we know about this particular person, a practice that takes us into the realm of behavioral targeting.""(Quote from Marc Rotenberg, from Bollier 23).
 
-
-
-
-Google was fined by the Federal Trade Commission in August 2012 "to settle charges that it had bypassed privacy settings in Apple's Safari browser to be able to track users of the browser and show them advertisements." (Simon, 186).
+Privacy is even more of a concern when we consider that online companies may not always be scrupulous. Google was fined by the Federal Trade Commission in August 2012 "to settle charges that it had bypassed privacy settings in Apple's Safari browser to be able to track users of the browser and show them advertisements." (Simon, 186).
 
 "Much of the data, however, is also about the users’ colleagues, friends, and others they come into contact with. Social media providers are gathering and exploiting vast amounts of personal data, without quality controls and without the consent of the individuals to whom that data relates. Individuals who volunteer such data have moral responsibility for their actions, but little or no legal responsibility. In some social media systems, such as Facebook, biometric and other connection linkages can be set up without the knowledge or permission of the individuals affected, typically by tagging people in photo- graphs. Service providers, meanwhile, can use obscurity, data havens, jurisdictional arbitrage, and market power to escape data protection laws. " (Wigan/Clark, 49).
 
